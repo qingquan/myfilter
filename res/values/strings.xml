@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">WifiParticleFiler</string>
+    
+    <string name="menu_settings">Settings (nothing here)</string>
+    <string name="positioning_menu_start">Start filter</string>
+    <string name="positioning_menu_stop">Stop filter</string>
+    
+    <string name="title_activity_main">WifiParticleFilter</string>
+    <string name="title_activity_scanning">Scanning Interface</string>
+    <string name="title_activity_positioning">Positioning Interface</string>
+    
+    <string name="buttonScanning">Start scanning</string>
+    <string name="buttonPositioning">Start positioning</string>
+    <string name="buttonStart">Start</string>
+    <string name="buttonYes">Yes</string>
+    <string name="buttonNo">No</string>
+
+    <string name="scanningDescription">Please enter your position coordinates and press "Start"</string>
+    <string name="x">x coordinate</string>
+    <string name="y">y coordinate</string>
+    
+    <string name="waitScanToast">Please wait while scanning!</string>
+    <string name="errorNumberToast">Please enter correct values!</string>
+    
+    <string name="wifiDialogueTitle">Wifi settings</string>
+	<string name="wifiDialogue">Wifi needs to be turned on! Turn it on?</string>
+    <string name="wifiEnableError">Error while enabling Wifi! Please retry!</string>
+
+    <string name="resetTable">Reset table</string>
+    
+</resources>
